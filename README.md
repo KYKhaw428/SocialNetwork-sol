@@ -3,7 +3,7 @@
 
  A simple social network dapp built using solidity smart contract.
 
-## Instructions connecting to the social network Dapp site :wrench:
+## Instructions connecting to the blockchain social network Dapp site :wrench:
  1) Install & enable metamask extension to your browser. :fox_face:
  2) Setup your metamask account and connect to Rinkeby Test Network. :key:
  3) Request some free Ether from https://faucet.rinkeby.io/ by following the instructions. :moneybag:
