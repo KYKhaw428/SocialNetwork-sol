@@ -1,5 +1,7 @@
 pragma solidity >=0.4.21 <0.6.0;
 
+/* Migration smart contract that comes with standard truffle project. 
+A smart contract that allows you to put new ones on the blockchain.*/
 contract Migrations {
   address public owner;
   uint public last_completed_migration;

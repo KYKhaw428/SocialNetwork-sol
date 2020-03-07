@@ -14,11 +14,14 @@ class Navbar extends Component {
             >
                 KY Social
             </a>
+            {/* Section to hold the accounts. */}
             <ul className="navbar-nav px-3">
                 <li className="nav-item text-nowrap d-one d-sm-none d-sm-block">
                 <small className="text-secondary">
+                    {/* Place the ethereum address here. */}
                     <small id="account">{this.props.account}</small>
                 </small>
+                {/* Use identicon to create avatar using blockchain account. */}
                 { this.props.account
                     ? <img 
                         className='ml-2'
